@@ -1,4 +1,4 @@
- = 👋 Solved.ac
+= 👋 Solved.ac
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=aruesin2)](https://solved.ac/aruesin2)
 <!---
