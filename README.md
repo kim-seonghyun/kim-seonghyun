@@ -7,5 +7,5 @@
 
 ## Studying
 [%hardbreaks]
-https://www.inf.unibz.it/~calvanese/teaching/04-05-ip/lecture-notes/ 
+https://www.inf.unibz.it/~calvanese/teaching/04-05-ip/lecture-notes/
 목표 : 프로그래밍 기본기 탄탄하게 다지기
