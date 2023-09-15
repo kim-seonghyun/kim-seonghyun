@@ -5,3 +5,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=aruesin2)](https://solved.ac/aruesin2)
 
+## Studying
+https://www.inf.unibz.it/~calvanese/teaching/04-05-ip/lecture-notes/
+목표 : 프로그래밍 기본기를 처음부터 탄탄하게 다지기
