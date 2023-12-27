@@ -5,4 +5,5 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=aruesin2)](https://solved.ac/aruesin2)
 
-## Studying
+## Blog
+https://velog.io/@patientia
